@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://grecep.github.io
+title: grecep
+paginate: 5
